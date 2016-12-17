@@ -1,3 +1,9 @@
 Example of training and evaluation of rnnlm model on the Penn Treebank Corpus. If the
 training takes more than 20 minutes, it would be good to check section 4 in FAQ.txt in
 rnnlm directory (performance issues).
+This information and the actual source code is available at http://www.fit.vutbr.cz/~imikolov/rnnlm/
+
+THE CODE HERE IS SPECIFIC TO THE ADAPTATION OF BACKGROUND AND IN-DOMAIN DATA
+
+The background data is divided into 25 smaller sets to allow parallel computation, and the code is designed accordingly.
+For original samples/demos, visit the website listed above.
