@@ -19,6 +19,3 @@ fi
 rm adapted_LM.lm
 done
 echo "OPTIMAL LAMBDA IS : " $minval
-
-
-
