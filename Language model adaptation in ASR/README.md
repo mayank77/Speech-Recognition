@@ -6,3 +6,5 @@ These scripts provide optimal lamda values on the basis of iterations and perple
 For more information : http://www.speech.sri.com/projects/srilm/
 
 The Neural Network Documentation and Base Code : http://www.fit.vutbr.cz/~imikolov/rnnlm/ OR rnnlm.org
+
+Dataset is GIGAWORD corpus (background) and the in-domain model is WSJ (Wall Street Journal) Dataset -- Both can be found online
